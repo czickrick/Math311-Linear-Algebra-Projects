@@ -10,4 +10,4 @@ Using Google Co-Laboratory to introduce the idea of solving systems pf equations
 [https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/Math_311_solve_systems_using_computation_and_rref.ipynb](https://colab.research.google.com/drive/18w-8A8WSL3cl6pDKMWNZmfSf32UTPXAy#scrollTo=AHRXKhal_Wcj)https://colab.research.google.com/drive/18w-8A8WSL3cl6pDKMWNZmfSf32UTPXAy#scrollTo=AHRXKhal_Wcj
     
 2. Ski Hill Problem.
-   https://github.com/czickrick/Math311-Linear-Algebra-Projects/commit/f6d10e0a6232b2357727fa3b029fc400f719d175
+
